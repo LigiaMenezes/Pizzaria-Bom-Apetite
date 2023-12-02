@@ -158,18 +158,7 @@ let pizzaJson = [
         description: 'Cogumelos, cebola, milho, tomate, queijo'
       },
       
-      {
-        id: 14,
-        name: 'Peixe com verduras',
-        img: 'images/pizza20.webp',
-        price: [32.00, 38.00, 42.00],
-        sizes: [
-          '6 fatias',
-          '8 fatias',
-          '12 fatias'
-        ],
-        description: 'Peixe, Molho de tomate, tomate, acelga, pimenta'
-      },
+
       {
         id: 15,
         name: 'Cogumelos',
@@ -206,18 +195,7 @@ let pizzaJson = [
         ],
         description: 'Tomate, farofa, legumes'
       },
-      {
-        id: 18,
-        name: 'Queijo a dois',
-        img: 'images/pizz19.webp',
-        price: [32.00, 38.00, 42.00],
-        sizes: [
-          '6 fatias',
-          '8 fatias',
-          '12 fatias'
-        ],
-        description: 'Mussarela, queijo, tomate, espinafre'
-      },
+
       {
         id: 19,
         name: 'Paulistana',
@@ -230,69 +208,6 @@ let pizzaJson = [
         ],
         description: 'tomate, calabresa, presunto, molho de tomate, queijo'
       },
-      {
-        id: 20,
-        name: 'Piaui',
-        img: 'images/pizz21.webp',
-        price: [32.00, 38.00, 42.00],
-        sizes: [
-          '6 fatias',
-          '8 fatias',
-          '12 fatias'
-        ],
-        description: 'Calabresa, acelga, mussarela, queijo'
-      },
-      {
-        id: 21,
-        name: 'Molho com tomate',
-        img: 'images/pizz25.webp',
-        price: [32.00, 38.00, 42.00],
-        sizes: [
-          '6 fatias',
-          '8 fatias',
-          '12 fatias'
-        ],
-        description: 'Tomate, pimenta, queijo, peixe, molho branco'
-      },
-      {
-        id: 22,
-        name: 'Vegetariana',
-        img: 'images/pizza21.webp',
-        price: [31.00, 34.00, 39.00],
-        sizes: [
-          '6 fatias',
-          '8 fatias',
-          '12 fatias'
-        ],
-        description: 'Molho de tomate, tomate, espinafre'
-      },
-      {
-        id: 23,
-        name: 'Tomate com espinafre',
-        img: 'images/pizza22.webp',
-        price: [30.00, 33.00, 39.00],
-        sizes: [
-          '6 fatias',
-          '8 fatias',
-          '12 fatias'
-        ],
-        description: 'Tomate, molho de tomate, espinafre'
-      },
-
-
-      {
-        id: 33,
-        name: 'Presunto',
-        img: 'images/pizza35.webp',
-        price: [30.00, 35.00, 40.00],
-        sizes: [
-          '6 fatias',
-          '8 fatias',
-          '12 fatias'
-        ],
-        description: 'Presunto, oregano, queijo'
-      },
-
 
       {
         id: 38,
