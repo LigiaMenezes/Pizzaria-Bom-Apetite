@@ -208,6 +208,18 @@ let pizzaJson = [
         ],
         description: 'tomate, calabresa, presunto, molho de tomate, queijo'
       },
+      {
+        id: 37,
+        name: 'pianense',
+        img: 'images/pizza55.jpg',
+        price: [30.00, 34.00, 38.00],
+        sizes: [
+          '6 fatias',
+          '8 fatias',
+          '12 fatias'
+        ],
+        description: 'Tomate, molho branco, pimentão, azeitona'
+      },
 
       {
         id: 38,
